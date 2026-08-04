@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Buwan ng Wika</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+</head>
+
+<body style="background-color:#FFF8DC; font-family:Arial, sans-serif;">
+
+    <!-- Heading -->
+    <h1 style="text-align:center; color:darkred; font-family:'Pacifico', cursive; font-size:50px;">
+        BUWAN NG WIKA 2026
+    </h1>
+
+    <!-- Theme -->
+    <h2 style="color:green;">Tema</h2>
+
+    <p style="font-size:18px; line-height:1.6;">
+        Ang <b>Buwan ng Wika</b> ay ipinagdiriwang tuwing buwan ng Agosto upang
+        ipakita ang pagmamahal sa ating wikang Filipino. Ang ating wika ay
+        mahalagang bahagi ng ating kultura, kasaysayan, at pagkakakilanlan
+        bilang mga Pilipino.
+    </p>
+
+    <hr>
+
+    <!-- Images -->
+    <h2 style="color:blue;">Mga Simbolo ng Pilipinas</h2>
+
+    <!-- Philippine Flag -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+         alt="Bandila ng Pilipinas"
+         width="220"
+         style="margin:10px; border:3px solid navy;">
+
+    <!-- Your Philippine Eagle -->
+    <img src="philippine-eagle.jpg"
+         alt="Philippine Eagle"
+         width="260"
+         style="margin:10px; border:3px solid darkgreen;">
+
+    <!-- Your Barong Tagalog -->
+    <img src="barong-tagalog.jpg"
+         alt="Barong Tagalog"
+         width="220"
+         style="margin:10px; border:3px solid brown;">
+
+    <hr>
+
+    <!-- Importance -->
+    <h2 style="color:purple;">Bakit Mahalaga ang Wikang Filipino?</h2>
+
+    <p style="font-size:18px;">
+        <strong>✔ Nagbubuklod</strong> sa mga Pilipino.<br><br>
+
+        <em>✔ Pinapahalagahan</em> ang ating kultura at tradisyon.<br><br>
+
+        <mark>✔ Naipapasa</mark> ang ating kasaysayan sa susunod na henerasyon.<br><br>
+
+        <u>✔ Ipinagmamalaki</u> ang ating pagka-Pilipino.
+    </p>
+
+    <hr>
+
+    <!-- Activities -->
+    <h2 style="color:brown;">Mga Gawain sa Buwan ng Wika</h2>
+
+    <ul style="font-size:18px;">
+        <li>Poster Making Contest</li>
+        <li>Balagtasan</li>
+        <li>Sabayang Pagbigkas</li>
+        <li>Pag-awit ng Kundiman</li>
+        <li>Pagsusuot ng Barong Tagalog at Baro't Saya</li>
+    </ul>
+
+    <hr>
+
+    <!-- Quote -->
+    <h2 style="color:darkorange;">Kasabihan</h2>
+
+    <p style="font-size:20px;">
+        <i>"Ang hindi marunong magmahal sa sariling wika ay higit pa sa hayop at malansang isda."</i>
+        <br><br>
+        <b>— Dr. Jose P. Rizal</b>
+    </p>
+
+    <hr>
+
+    <!-- Footer -->
+    <h3 style="text-align:center; color:red;">
+        🇵🇭 Ipagmalaki ang Wikang Filipino! 🇵🇭
+    </h3>
+
+</body>
+</html>
+Compose
+Write to Zy Rah
